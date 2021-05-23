@@ -41,7 +41,6 @@
  
 </p>
 
-<br>
 
 ## Few words:
 <p>
