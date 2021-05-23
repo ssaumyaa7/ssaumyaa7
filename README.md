@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with spirited fellows.
 - 🥅 2021 Goals: Contribute more to Open Source projects 👷
 - 😄 Pronouns: She/Her
-- ⚡ Interesting fact: Reading, writing, swimming and painting keep my energy up.
+- ⚡ Interesting fact: Reading, writing, swimming and painting keeps me energized.
 
 
 ## Connect with me:
