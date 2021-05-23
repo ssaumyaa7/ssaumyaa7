@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on becoming a better Web Developer everyday. 
 - 🌱 I’m currently learning everything 😁
-- 👯 I’m looking to collaborate with spirited fellows.
+- 👯 I’m looking to collaborate on Full stack web development.
+- 🚀 I'm exploring Data Science.
 - 🥅 2021 Goals: Contribute more to Open Source projects 👷
 - 😄 Pronouns: She/Her
 - ⚡ Interesting fact: Reading, writing, swimming and painting keeps me energized.
