@@ -18,14 +18,14 @@
 
 <a href="https://twitter.com/ssaumyaa_7" target="_blank"><img height="25" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>
 <a href="https://www.linkedin.com/in/ssaumyaa7/" target="_blank"><img height="25" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>
-<a href="https://www.instagram.com/ssaumyaa_7/" target="_blank"><img height="25 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
+<a href="https://www.instagram.com/ssaumyaa_7/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
 
 
 ## Few words:
 <p>
-  The woods are lovely dark and deep,
-  But I have promises to keep,
-  And miles to go before I sleep
-  And miles to go before I sleep.
+  The woods are lovely dark and deep,<br>
+  But I have promises to keep,<br>
+  And miles to go before I sleep<br>
+  And miles to go before I sleep.<br>
 
 </p>
