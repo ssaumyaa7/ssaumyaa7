@@ -43,7 +43,7 @@
 </p>
 
 ## GitHub Stats:
-![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaumyaa7&hide=stars&show_icons=true&theme=tokyonight)
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaumyaa7&hide=stars&show_icons=true&theme=merko)
 
 
 ## Few words:
