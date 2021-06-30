@@ -43,7 +43,8 @@
 </p>
 
 ## GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaumyaa7&show_icons=true&theme=dark)
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaumyaa7&hide=stars&show_icons=true&theme=tokyonight)
+
 
 ## Few words:
 <p>
