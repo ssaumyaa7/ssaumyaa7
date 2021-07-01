@@ -19,7 +19,7 @@
 
 <a href="https://twitter.com/ssaumyaa_7" target="_blank"><img height="25" align="left" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>
 <a href="https://www.linkedin.com/in/ssaumyaa7/" target="_blank"><img height="25" align="left" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>
-<a href="https://www.instagram.com/ssaumyaa_7/" target="_blank"><img height="25" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>
+<!-- <a href="https://www.instagram.com/ssaumyaa_7/" target="_blank"><img height="25" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a> -->
 
 <br>
 
