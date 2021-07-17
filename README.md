@@ -13,7 +13,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects 👷
 - 😄 Pronouns: She/Her
 - ⚡ Interesting fact: Reading, writing, swimming and painting keeps me energized.
-
+<br>
 
 ## Connect with me:
 
@@ -23,6 +23,7 @@
 
 <!-- <a href="https://www.instagram.com/ssaumyaa_7/" target="_blank"><img height="25" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a> -->
 
+<br>
 <br>
 
 
@@ -43,10 +44,11 @@
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
  
 </p>
+<br>
 
 ## GitHub Stats:
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaumyaa7&hide=stars&show_icons=true&theme=default)
-
+<br>
 
 ## Few words:
 <p>
@@ -56,3 +58,4 @@
   And miles to go before I sleep.<br>
 
 </p>
+<br>
